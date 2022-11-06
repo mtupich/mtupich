@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mtupich
 - 👀 I’m interested in the mobile development universe 
 - 🌱 I’m currently learning all sorts of technology subjects
-- 💞️ I’m looking to collaborate on mobilie ios projects
+- 💞️ I’m looking to collaborate on mobile ios projects
 - 📫 How to reach me https://www.linkedin.com/in/maria-eduarda-tupich/
 
 <!---
