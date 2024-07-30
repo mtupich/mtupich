@@ -1,11 +1,72 @@
-- 👋 Hi, I’m @mtupich
-- 👀 I’m interested in the mobile development universe 
-- 🌱 I’m currently learning all sorts of technology subjects
-- 💞️ I’m looking to collaborate on mobile ios projects
-- 📫 How to reach me https://www.linkedin.com/in/maria-eduarda-tupich/
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maria+Tupich!;" />
+</h1>
 
-<!---
-mtupich/mtupich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+<h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a consultant company**
+ 
+ 🌱 I’m currently learning **Flutter**
+
+💬 Ask me about **Swift, Swift UI... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Ask me how to make brownies**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:mariatupich@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/maria-eduarda-tupich" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=swift,firebase,flutter,react,javascript" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mtupich&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="streak stats"/>
+   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mtupich&theme=vue-dark&hide_border=true" alt="streak stats"/>
+   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtupich&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="streak stats"/>
+
+  <br/>
+  
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
