@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Flutter**
 
-💬 Ask me about **Swift, Swift UI... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Swift, Swift UI... or anything [here](https://github.com/mtupich/mtupich/issues)**
 
 ⚡ Fun fact **Ask me how to make brownies**
 
